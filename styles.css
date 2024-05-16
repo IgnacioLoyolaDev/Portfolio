@@ -474,7 +474,7 @@ form .btn2{
 }
 
 #stages .stage p {
-    color: #ababab; /* Couleur du texte */
+    color: white; /* Couleur du texte */
     font-size: 16px; /* Taille de la police */
     margin-bottom: 20px; /* Marge en bas */
 }
