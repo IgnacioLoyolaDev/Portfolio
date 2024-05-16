@@ -436,5 +436,60 @@ form .btn2{
     margin-bottom: 10px; /* Marge en bas */
 }
 
+/* Style pour la section "Stages" */
+#stages {
+    padding: 50px 0; /* Espace autour du contenu */
+    text-align: left; /* Aligner le contenu à gauche */
+    width: 70%; /* Utilisation de toute la largeur disponible */
+}
+
+#stages .container {
+    max-width: 1000px; /* Largeur maximale du contenu */
+    margin: 0 auto; /* Centrer horizontalement le contenu */
+    padding: 0 20px; /* Ajouter un peu de marge sur les côtés */
+}
+
+#stages .sub-title {
+    font-size: 40px; /* Taille du titre */
+    font-weight: 600; /* Épaisseur du texte */
+    color: white; /* Couleur du texte */
+    margin-bottom: 30px; /* Marge en bas du titre */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Légère ombre autour du texte */
+    transition: transform 0.3s ease-in-out; /* Transition au survol */
+    text-align: left; /* Aligner le texte à gauche */
+}
+
+#stages .stage {
+    background: #262626; /* Couleur de fond */
+    padding: 30px; /* Rembourrage intérieur */
+    border-radius: 10px; /* Bord arrondi */
+    margin-bottom: 40px; /* Marge en bas */
+}
+
+#stages .stage h2 {
+    font-size: 28px; /* Taille de la police */
+    font-weight: bold; /* Épaisseur du texte */
+    color: #ff004f; /* Couleur du texte */
+    margin-bottom: 20px; /* Marge en bas */
+}
+
+#stages .stage p {
+    color: #ababab; /* Couleur du texte */
+    font-size: 16px; /* Taille de la police */
+    margin-bottom: 20px; /* Marge en bas */
+}
+
+#stages .stage ul {
+    list-style-type: disc; /* Type de puce de la liste */
+    margin-left: 20px; /* Marge à gauche */
+}
+
+#stages .stage h3 {
+    font-size: 20px; /* Taille de la police */
+    font-weight: bold; /* Épaisseur du texte */
+    color: #ff004f; /* Couleur du texte */
+    margin-top: 20px; /* Marge en haut */
+    margin-bottom: 10px; /* Marge en bas */
+}
 
 
