@@ -95,9 +95,7 @@ nav ul li a:hover::after{
 
 }
 
-.about-col-2 h2{
-    color: white;
-}
+
 
 .about-col-1 img{
     width: 100%;
@@ -112,6 +110,10 @@ nav ul li a:hover::after{
 .sub-title{
     font-size: 60px;
     font-weight: 600;
+    color: white;
+}
+
+.about-col-2 h2{
     color: white;
 }
 
