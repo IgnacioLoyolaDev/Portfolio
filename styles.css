@@ -95,6 +95,10 @@ nav ul li a:hover::after{
 
 }
 
+.about-col-1 h2{
+    color: white;
+}
+
 .about-col-1 img{
     width: 100%;
     border-radius: 15px;
@@ -103,6 +107,7 @@ nav ul li a:hover::after{
 .about-col-2{
     flex-basis: 60%;
 }
+
 
 .sub-title{
     font-size: 60px;
